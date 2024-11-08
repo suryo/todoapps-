@@ -131,23 +131,7 @@ class _HomeState extends State<Home> {
                   ),
                 ),
               ),
-              Container(
-                color: Colors.white70,
-                height: 200,
-                width: double.infinity,
-                child: Center(child: Text('Container 3')),
-              ),
-              Container(
-                height: 200,
-                width: double.infinity,
-                child: Center(child: Text('Container 4')),
-              ),
-              Container(
-                color: Colors.white70,
-                height: 200,
-                width: double.infinity,
-                child: Center(child: Text('Container 5')),
-              ),
+
             ],
           ),
         ),
